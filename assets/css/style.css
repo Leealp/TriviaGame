@@ -1,5 +1,5 @@
 .container{
-	background-image: url(assets/images/purtywood/purty-wood.png);
+	/*background-image: url(assets/images/purtywood/purty-wood.png);*/
 	width: 1140px;
 	margin: auto;
 	padding-top: 100px;
@@ -22,7 +22,7 @@ h3{
 	border: 2px solid blue;
 	margin: auto;
 	text-align: center;
-	width: 20%;
+	width: 70%;
 }
 
 h4{
