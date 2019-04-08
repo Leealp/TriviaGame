@@ -1,5 +1,6 @@
 .container{
-	/*background-image: url(assets/images/purtywood/purty-wood.png);*/
+	/*background-image: url(assets/images/purtywood/purty_wood.png);*/
+	background-image: url("blue-jay.jpg");
 	width: 1140px;
 	margin: auto;
 	padding-top: 100px;
