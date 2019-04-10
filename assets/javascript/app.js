@@ -9,7 +9,7 @@ var questions = [{
 	response:["Dallas", "Austin", "San Antonio"],
 	correctanswer: "Austin",
 },{
-	question:"what was John Kennedy know by?",
+	question:"what was John Kennedy known by?",
 	response:["John", "Johnny", "Jack"],
 	correctanswer: "Jack",
 },{
