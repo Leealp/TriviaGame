@@ -1,29 +1,32 @@
 .container{
 	/*background-image: url(assets/images/purtywood/purty_wood.png);*/
-	background-image: url("blue-jay.jpg");
+	background-image: url(../images/purtywood/purty_wood.png);
 	width: 1140px;
 	margin: auto;
 	padding-top: 100px;
 	padding-bottom: 100px;
-	border: 2px solid red;
+	/*border: 2px solid red;*/
 }
 
 .center{
 	width: 80%;
 	margin-top: 100px;
 	margin: auto;
-	border: 2px solid green;
+	min-height: 700px;
+	/*border: 2px solid green;*/
 }
 
-h3{
+h1{
 	text-align: center;
 }
 
 #startcontainer{
-	border: 2px solid blue;
+	background-image: url(../images/retinawood/retina_wood.png);
 	margin: auto;
 	text-align: center;
 	width: 70%;
+	min-height: 650px;
+	/*border: 2px solid blue;*/
 }
 
 h4{
